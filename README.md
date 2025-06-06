@@ -1,58 +1,28 @@
 # Exploratory Data Analysis (EDA) Project
 
-> A data-driven analytical project focusing on discovering patterns, spotting anomalies, and testing hypotheses using visualization and statistical summaries.
 
-## 🌟 Goal
+## Goal
 
-To perform in-depth exploratory data analysis (EDA) on a real-world dataset to uncover meaningful insights and communicate findings visually and effectively.
+Purpose of the project is to extract meaningful insights and information from data through visual representations. By visualizing data, patterns, relationships, and trends become easier to see and understand. This can lead to more informed decision-making, improved communication, and increased understanding of the data.
 
----
+In this project will analysis and visualize data of different apps that has been downloaded from google Play Store. Exploring and discovering new insights and relationships within data. Identifying areas for improvement or optimization. By the Analysis and Visualization developer and business Community might get batter insite of the Consumer’s mindset and able to create more useful and profitable apps.
 
-## 🔍 Overview
+## 🔍 Outline 
+Steps for Data Visulization and Analysis
 
-This repository contains the complete process of conducting EDA using Python. The analysis is designed to understand the structure and distribution of data, detect outliers, check correlations, and prepare the dataset for downstream tasks like modeling or reporting.
+DATA COLLECTION
+Download dataset fron Internet using 'opendata'
+EXPLORATORY ANALYSIS
+Read Dataset with Pandas
+Create Dataframe
+Clean raw data with Pandas
+ASK & ANSWERS
+Matplotlib
+Seaborn
+Plotly.express
 
-It serves as a practical demonstration of data storytelling and analytical thinking using tools widely used in the data industry.
 
----
-
-## 🚀 Features
-
-* 📊 Dataset cleaning and preprocessing
-* 🔢 Statistical summaries and aggregations
-* 🌐 Handling missing data and outliers
-* 🔄 Feature correlation and distribution plots
-* 🌎 Beautifully structured visualizations using Seaborn/Matplotlib
-* 🎨 Notebook-based storytelling (ideal for presentations)
-
----
-
-## 👷 Tech Stack
-
-| Layer       | Technology          |
-| ----------- | ------------------- |
-| Programming | Python 3.x          |
-| Libraries   | Pandas, NumPy       |
-| Plotting    | Matplotlib, Seaborn |
-| IDE         | Jupyter Notebook    |
-| Versioning  | Git + GitHub        |
-
----
-
-## 📁 Project Structure
-
-```text
-Exploratory-Data-Analysis-EDA/
-├── EDA.ipynb          # Main analysis notebook
-├── dataset.csv        # Input dataset
-├── visuals/           # Folder for saved plots/images
-├── README.md          # Project documentation
-└── requirements.txt   # (Optional) Environment dependencies
-```
-
----
-
-## 🚧 Process
+## Process
 
 1. Load dataset and perform basic sanity checks
 2. Clean and preprocess data (handling missing values, duplicates)
@@ -63,7 +33,7 @@ Exploratory-Data-Analysis-EDA/
 
 ---
 
-## 📅 Future Enhancements
+## Future Work
 
 * Integrate automated profiling tools like Pandas-Profiling or Sweetviz
 * Add interactive dashboards using Plotly or Streamlit
@@ -72,31 +42,6 @@ Exploratory-Data-Analysis-EDA/
 
 ---
 
-## 👨‍💼 Author
-
-**Shashwat Patel**
-Data Analyst | Aspiring ML Engineer | Tech Enthusiast
-📍 Chicago, IL
-🌐 [LinkedIn](https://www.linkedin.com/in/shashwatpatel107/)
-💼 [Portfolio](https://shashwatpatel.netlify.app)
-
----
-
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, share, or adapt with appropriate attribution.
-
----
-
-## 🤝 Contributions
-
-Feedback and contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.
-
----
-
-## 📌 Acknowledgments
-
-* Inspired by real-world business data challenges
-* Charts powered by Matplotlib and Seaborn
-
----
