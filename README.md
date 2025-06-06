@@ -7,7 +7,7 @@ Purpose of the project is to extract meaningful insights and information from da
 
 In this project will analysis and visualize data of different apps that has been downloaded from google Play Store. Exploring and discovering new insights and relationships within data. Identifying areas for improvement or optimization. By the Analysis and Visualization developer and business Community might get batter insite of the Consumer’s mindset and able to create more useful and profitable apps.
 
-## 🔍 Outline 
+## Outline 
 Steps for Data Visulization and Analysis
 
 DATA COLLECTION
